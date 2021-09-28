@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-udemy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IudinAleksei/nodejs-udemy.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Aleksei Iudin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IudinAleksei/nodejs-udemy/issues"
+  },
+  "homepage": "https://github.com/IudinAleksei/nodejs-udemy#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
